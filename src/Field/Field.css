@@ -1,0 +1,10 @@
+.perimeter {
+    background-color: greenyellow;
+    border: 1px solid black;
+    border-radius:500px;
+    height: 30rem;
+    margin: 2 rem;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+    width: 10 rem;
+};
